@@ -1,0 +1,6 @@
+{
+  "name": "Masoomi Law Associates",
+  "description": "Chambers of Advocate Syed Shahbaz Ali Shah Masoomi, Advocate High Court of Sindh, Karachi. Specializing in criminal defense, urgent bail, constitutional writs, FIA & NAB white-collar defense, and civil litigation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
